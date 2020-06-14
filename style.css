@@ -1,12 +1,11 @@
 #head{
-    background-color: black;
+    background-image: url(bg.png);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
     justify-content: center;
 }
 #head_1{
-    background-color: black;
     padding-bottom: 30%;
 }
 
